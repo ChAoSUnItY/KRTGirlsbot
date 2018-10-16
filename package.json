@@ -1,0 +1,20 @@
+{
+  "name": "KRTGirlsbot",
+  "version": "1.0.0",
+  "description": "An image-posting bot but in KRT Girls style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChAoS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "file-system": "^2.2.2",
+    "libsodium-wrappers": "^0.7.3",
+    "opusscript": "^0.0.6",
+    "request": "^2.88.0",
+    "uws": "^9.148.0"
+  },
+  "devDependencies": {}
+}
